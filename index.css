@@ -1,0 +1,51 @@
+h2 {
+  background-color: burlywood;
+  width: 56%;
+  margin: 3%;
+}
+h3 {
+  background-color: antiquewhite;
+  display: inline-block;
+}
+.Canned {
+  background-color: darkseagreen;
+  width: 25%;
+  height: fit-content;
+  margin: 3%;
+  border: double;
+}
+.DryGoods {
+  background-color: deepskyblue;
+  width: 25%;
+  height: fit-content;
+  margin: 3%;
+  border: double;
+}
+.Veggies {
+  background-color: greenyellow;
+  width: 25%;
+  height: fit-content;
+  margin: 3%;
+  border: double;
+}
+.Snacks {
+  background-color: coral;
+  width: 25%;
+  height: fit-content;
+  margin: 3%;
+  border: double;
+}
+.pantryitems {
+  display: flex;
+}
+.freezer {
+  display: flex;
+}
+.pantryphoto {
+  width: 25%;
+  padding: 3%;
+}
+.freezerimage {
+  width: 25%;
+  padding: 3%;
+}
